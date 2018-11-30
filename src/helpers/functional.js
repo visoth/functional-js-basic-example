@@ -1,7 +1,4 @@
 // currying
-export const curry = f => a => b => f(a, b);
-export const uncurry = f => (a, b) => f(a)(b);
-export const papply = (f, a) => b => f(a, b);
 const toArray = args => [].slice.call(args);
 export const autocurry = fn => {
   var len = fn.length;
