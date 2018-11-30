@@ -1,4 +1,4 @@
-This projet is a simple example of a basic app that fetch, process and show a list random users grouped by city. It is here to illustrate the difference between imperative and function programming.
+This projet is a simple example of a basic app that fetch, process and show a list of random users grouped by city. It is here to illustrate the difference between imperative and functional programming.
 
 ## Prerequisites
 
