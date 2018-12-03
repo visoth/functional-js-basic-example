@@ -6,7 +6,7 @@ This projet is a simple example of a basic app that fetch, process and show a li
 
 ## How to use it
 
-To start the project, simply run this commande:
+To start the project, simply run the following commandes:
 
 ```
 $ yarn install
